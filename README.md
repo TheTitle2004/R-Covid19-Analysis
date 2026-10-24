@@ -1,5 +1,5 @@
 # using-R-to-analyze-COVID19
-data <- read.csv("C:/Users/royna/Downloads/COVID19_line_list_data.csv")
+data <- read.csv("C:/Users/shirshak/Downloads/COVID19_line_list_data.csv")
 install.packages('Hmisc')
 library(Hmisc)
 describe(data)
